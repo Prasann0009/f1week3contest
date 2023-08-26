@@ -1,0 +1,134 @@
+#logo-1
+{
+    font-weight: bolder;
+    background-color: #F94A3D;
+}
+#head{
+    background-color: #F94A3D12;
+}
+.header-card
+{
+    border-radius: 23px;
+    background: #FDECEC;
+    width: 25%;
+}
+.head-text-1
+{
+    padding-top: 10px;
+}
+.french-fires
+{
+    background-color: white;
+    border-radius: 50%;
+}
+#btn-search{
+    background-color: #F94A3D;
+    color: white;
+}
+.your_door
+{
+    color: red;
+}
+.head-text
+{
+    margin-left: 20%;
+}
+#head_button
+{
+  background-color: #F94A3D;
+  width: 20%;  
+}
+#aboutus{
+    margin-inline: 100px;
+}
+#card_img
+{
+    margin-inline: auto;
+}
+#recipes
+{
+    margin-right: 70px;
+    margin-left: 50px;
+}
+#menu>h6{
+    margin-inline: 20px;
+}
+#menu>h6>a
+{
+    text-decoration: none;
+}
+#menu-active
+{
+    color: red;
+    text-decoration: underline;
+}
+.price
+{
+    color: #F94A3D;
+}
+.recipes-image
+{
+    margin-top: 30px;
+    height: 300px;
+}
+#menu-items>div>div{
+    height: 400px;
+}
+#testimonial
+{
+    height: 500px;
+    margin-top: 20px;
+    background-color: #F8F8F8;
+}
+#col-1>div
+{
+    margin-top: 20px;
+}
+.testi-prof
+{
+    margin-left: 25px;
+}
+.testi-feed>div
+{
+   margin-top: 40px;
+}
+.left-nav>h2{
+    color:red;
+}
+.left-nav>span{
+    padding: 0px 2px 0px 2px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    margin-right: 5px;
+  
+}
+.footer
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #FFFBF7;
+}
+.footer-link>a
+{
+    text-decoration: none;
+    color: black;
+}
+.footer-link
+{
+    margin-top: 20px;
+}
+#download
+{
+height: 550px;
+}
+#download-main
+{
+    background-color: #F94A3D;
+    border-radius: 40px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-inline: 15%;
+    height:  400px;
+}
